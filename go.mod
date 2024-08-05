@@ -1,4 +1,4 @@
-module github.com/devilcove/httpclient
+module github.com/cryply/httpclient
 
 go 1.18
 
